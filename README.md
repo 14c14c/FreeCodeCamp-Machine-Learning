@@ -4,6 +4,7 @@ This repo consists of 5 projects from Machine Learning with Python from freeCode
 
 1. Rock Paper Scissors
 https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
+My solution: boilerplate-rock-paper-scissors folder
 
 2. Cat and Dog Image Classifier
 https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/cat-and-dog-image-classifier
