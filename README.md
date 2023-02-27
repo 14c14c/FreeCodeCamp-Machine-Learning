@@ -3,21 +3,21 @@
 This repo consists of 5 projects from Machine Learning with Python from freeCodeCamp. 
 
 1. Rock Paper Scissors
-https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
+https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors__
 My solution: boilerplate-rock-paper-scissors folder
 
 2. Cat and Dog Image Classifier
-https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/cat-and-dog-image-classifier
+https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/cat-and-dog-image-classifier__
 My solution: fcc_cat_dog.ipynb 
 
 3. Book Recommendation Engine using KNN
-https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/book-recommendation-engine-using-knn
+https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/book-recommendation-engine-using-knn__
 My solution: fcc_book_recommendation_knn.ipynb
 
 4. Linear Regression Health Costs Calculator
-https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/linear-regression-health-costs-calculator
+https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/linear-regression-health-costs-calculator__
 My solution: fcc_predict_health_costs_with_regression.ipynb
 
 5. Neural Network SMS Text Classifier
-https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/neural-network-sms-text-classifier
+https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/neural-network-sms-text-classifier__
 My solution: fcc_sms_text_classification.ipynb
